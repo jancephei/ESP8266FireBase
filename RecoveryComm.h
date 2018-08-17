@@ -111,6 +111,6 @@ void loop() {
   Serial.print("pushed: /logs/");
   Serial.println(name);
   
-  // change the dalay 10 seconds
+  // change the delay 10 seconds
   delay(10000);
 }
